@@ -1,0 +1,11 @@
+.face1 { color:aquamarine}
+.face2 { color:rgb(21, 0, 255)}
+.face3 { color:blueviolet}
+.face4{ color:aqua}
+body {
+background-color: #dba607;
+color: #ff0000;
+width: 500px;
+margin-right: auto;
+margin-left: auto;
+}
